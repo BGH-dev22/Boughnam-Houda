@@ -1,7 +1,7 @@
 <h1 align="center">✨ Hey, I'm Boughnam Houda ✨</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=FF69B4&center=true&vCenter=true&width=435&lines=AI+%26+Data+Engineering+Student;Passionate+about+Machine+Learning+%26+Vision;Competitive+Programmer+%7C+Self-Learner" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=44&pause=1000&color=FF69B4&center=true&vCenter=true&width=435&lines=AI+%26+Data+Engineering+Student;Passionate+about+Machine+Learning+%26+Vision;Competitive+Programmer+%7C+Self-Learner" alt="Typing SVG" />
 </p>
 
 ---
