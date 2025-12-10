@@ -43,7 +43,6 @@
 
 ## 💌 Let's Connect
 
-[![LinkedIn]([https://img.shields.io/badge/LinkedIn-Boughnam%20Houda-blue?logo=linkedin)](linkedin.com/in/houda-boughnam-45b622335))  
 📫 Email: houda.bgh99@gmail.com  
 
 ---
